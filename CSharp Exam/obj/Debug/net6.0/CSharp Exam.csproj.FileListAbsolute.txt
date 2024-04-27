@@ -1,0 +1,29 @@
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.exe
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.deps.json
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.runtimeconfig.json
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.dll
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.pdb
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.csproj.AssemblyReference.cache
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.AssemblyInfoInputs.cache
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.AssemblyInfo.cs
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.csproj.CoreCompileInputs.cache
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.dll
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\refint\CSharp Exam.dll
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.pdb
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.genruntimeconfig.cache
+F:\.Net C41\Mentor\workshop\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\ref\CSharp Exam.dll
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.exe
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.deps.json
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.runtimeconfig.json
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.dll
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\bin\Debug\net6.0\CSharp Exam.pdb
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.AssemblyInfoInputs.cache
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.AssemblyInfo.cs
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.csproj.CoreCompileInputs.cache
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.dll
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\refint\CSharp Exam.dll
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.pdb
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\CSharp Exam.genruntimeconfig.cache
+E:\C41 Route\Eng Aliaa Tarek\WorkShop\Manar Maher\6. C# Exam\Project\CSharp Exam Solution\CSharp Exam\obj\Debug\net6.0\ref\CSharp Exam.dll
